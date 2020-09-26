@@ -12,4 +12,5 @@ Basic knowledge in:
 
 •	Python
 
-				                                                        *** KEEP-LEARNING ***
+				                          
+ *** KEEP-LEARNING ***
